@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "config:base",
+    ":disableRateLimiting",
+    ":automergePr",
+    ":automergeRequireAllStatusChecks",
+    ":semanticCommits",
+    ":masterIssue",
+    ":maintainLockFilesWeekly"
+  ]
+}
