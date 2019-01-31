@@ -7,5 +7,6 @@
     ":semanticCommits",
     ":masterIssue",
     ":maintainLockFilesWeekly"
-  ]
+  ],
+  "pinDigests": true
 }
