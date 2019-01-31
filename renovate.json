@@ -8,5 +8,6 @@
     ":masterIssue",
     ":maintainLockFilesWeekly"
   ],
+  "labels": ["renovate"],
   "pinDigests": true
 }
