@@ -6,7 +6,6 @@
     ":automergePr",
     ":automergeRequireAllStatusChecks",
     ":semanticCommits",
-    ":masterIssue",
     ":maintainLockFilesWeekly"
   ],
   "labels": ["renovate"],
