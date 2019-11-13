@@ -8,6 +8,9 @@
     ":semanticCommits",
     ":maintainLockFilesWeekly"
   ],
+  "kubernetes": {
+    "fileMatch": [".+\\.yaml(.jinja2)?$"]
+  },
   "labels": ["renovate"],
   "major": {
     "labels": ["major", "renovate"]
