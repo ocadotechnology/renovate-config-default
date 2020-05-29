@@ -8,6 +8,7 @@
     ":semanticCommits",
     ":maintainLockFilesWeekly"
   ],
+  "gitLabAutomerge": true,
   "kubernetes": {
     "fileMatch": [".+\\.yaml(.jinja2)?$"]
   },
