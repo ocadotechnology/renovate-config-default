@@ -1,4 +1,5 @@
 {
+  "commitBody": "{{#logJSON.versions}}{{version}} {{date}}\n{{releaseNotes.body}}\n{{/logJSON.versions}}",
   "extends": [
     "config:base",
     "docker:enableMajor",
